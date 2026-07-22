@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282 292" width="282" height="292">
+	<title>softnix data platform logo-ai</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(208.576,0,0,203.435,41.329,49.338)">
+			<stop offset="0" stop-color="#1664a1"/>
+			<stop offset=".606" stop-color="#02c0f2"/>
+			<stop offset=".949" stop-color="#99dbf8"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(208.534,0,0,118.533,41.371,49.338)">
+			<stop offset="0" stop-color="#fff238"/>
+			<stop offset=".281" stop-color="#fdc60a"/>
+			<stop offset=".668" stop-color="#f3903e"/>
+			<stop offset=".888" stop-color="#ed683c"/>
+			<stop offset="1" stop-color="#e93c39"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #b6d346 } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m147.8 252.8h-43.9c-34.5 0-62.6-28.1-62.6-62.6v-78.3c0-34.5 28.1-62.6 62.6-62.6h43.9c35.6 0 102.1 35.1 102.1 102.2 0 44.4-22.5 69.1-41.4 82-20.9 14.2-45.1 19.3-60.7 19.3zm-43.9-156.7c-8.7 0-15.8 7.1-15.8 15.8v78.3c0 8.7 7.1 15.8 15.8 15.8h43.9c0.6 0 55.4-1.5 55.4-54.5 0-40.3-46-55.4-55.4-55.4z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m147.8 49.3h-43.9c-34 0-61.7 27.2-62.5 61l46.7 0.8c0.5-8.4 7.3-15 15.8-15h43.9c1.2 0 3.1 0.3 5.4 0.8q1 0 2 0c79 0 91.1 48.4 93.6 71 0.7-5.2 1.1-10.6 1.1-16.4 0-67.1-66.5-102.2-102.1-102.2z"/>
+				<path id="&lt;Path&gt;" class="s2" d="m98.9 49.6c-32.1 2.5-57.6 29.5-57.6 62.3v53.9c5 5.6 33.1 36 58.1 39.6-6.5-1.9-11.3-8-11.3-15.2v-78.3c0-2.8 0.7-5.5 2-7.7 0.8-29 23.1-50.8 64.8-54.4q-1.6-0.2-3-0.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>
