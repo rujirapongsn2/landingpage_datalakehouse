@@ -188,7 +188,7 @@ const I18N_EN = {
   /* Comparison */
   "cmp.badge": "Competitive Analysis",
   "cmp.title": "SDP vs. Cloud-Based Platforms",
-  "cmp.sub": "Feature-by-feature comparison with Databricks / Cloud Platforms",
+  "cmp.sub": "Feature-by-feature comparison with Cloud Data Platforms",
   "cmp.feature": "Feature",
   "cmp.r1": "Deployment",
   "cmp.r1a": "On-Premise (Full Control) + Cloud (AWS/Azure/GCP)",
